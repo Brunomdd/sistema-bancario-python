@@ -24,7 +24,7 @@ Contas Demo:
 
 text
 1 - Rodrigo (R$500)
-2 - Turao (R$2.000)  
+2 - Lucas (R$2.000)  
 3 - Rosineide (R$54.023)
 📁 Estrutura
 text
